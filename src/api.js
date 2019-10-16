@@ -11,7 +11,6 @@ headers = {
     Accept: "application/json"
 }
 
-
 // FUNCTIONALITY
 
 function get(){
